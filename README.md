@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/static/v1?label=Github&message=Profile&color=blue&?style=social&logo=GitHub">
 </a>
 
-**Raphael Rangel Freitas XXX GES**
+**Raphael Rangel Freitas 197 GES**
 
 ![Repo Size](https://img.shields.io/github/repo-size/RaphaelRFreitas/C318)
 ![Linguagens usadas](https://img.shields.io/github/languages/count/RaphaelRFreitas/C318)
