@@ -24,3 +24,8 @@
 ### Projeto Computacional
 
 Docente: Ricardo Augusto
+
+
+Vídeo da apresentação:
+
+https://drive.google.com/file/d/18zAgb8ndSNszTUGoInrSmDBQQaoLlOHM/view?usp=sharing
